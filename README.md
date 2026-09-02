@@ -66,6 +66,12 @@ These incidents occurred in portfolio development environments. Severity is base
 
 Screenshots and log excerpts are included only when they were preserved and can be shown without exposing credentials, tokens, public IP addresses, authenticated remote URLs, or other sensitive information. The absence of a screenshot is never replaced with reconstructed evidence. Each report instead identifies the commands, outputs, or validation behavior that supported the investigation.
 
+## Documentation Transparency
+
+The incidents documented in this repository are based on troubleshooting performed during hands-on technical projects. AI-assisted tools were used to help organize notes, improve clarity, and standardize the report format.
+
+The technical investigations, commands, evidence, root-cause findings, corrective actions, and validation steps reflect work performed and reviewed by the repository author. AI was not used to fabricate incidents, production impact, customer impact, or technical evidence.
+
 ## Related Portfolio
 
 The implementations behind these incidents are documented in my [Cloud & DevOps Engineering Portfolio](https://github.com/Ejones904/cloud-devops-portfolio).
